@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/khairulhaaziq/whatsappgpt/main/whatsapp-gpt.png" alt="WhatsappGPT - ChatGPT in your whatsapp" width="250">
+<img src="https://raw.githubusercontent.com/bot-developer03/LinaGPT/main/whatsapp-gpt.png" alt="WhatsappGPT - ChatGPT in your whatsapp" width="250">
 <br>
 WhatsappGPT
 <br>
