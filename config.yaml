@@ -1,1 +1,1 @@
-trigger: "!chat"
+trigger: ".chat"
